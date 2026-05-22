@@ -1,4 +1,4 @@
-##Structure (suggested)**
+## **Structure (suggested)**
 
 ```
 Hand-Controlled-Cursor/
